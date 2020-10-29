@@ -1,0 +1,17 @@
+{ 
+    "users":[ 
+
+    {
+        "id":1,
+        "user":"John Malcovich",
+        "age":22
+    },
+    {
+        "id":2,
+        "user":"Bob Sinclar",
+        "age":34
+    }
+
+]
+   
+}
